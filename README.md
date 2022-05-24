@@ -2,7 +2,7 @@
 
 ## Demo Hello World program
 
-```c
+```cpp
 cout << "Hello World" ;
 ```
 
